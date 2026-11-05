@@ -1,0 +1,10 @@
+{
+  "servers": [
+    { "name": "VoltStream", "url": "http://247premium.xyz:80" },
+    { "name": "VoltStream 2", "url": "http://smarterstv.win:2052" },
+    { "name": "VoltStream 3", "url": "http://falcontv.uk:8880" }
+  ],
+  "message": "",
+  "addons": [],
+  "pickServer": false
+}
